@@ -3,16 +3,20 @@
 ### 👋 Hi there, I'm Rakib Uddin 
 Full Stack Software Engineer.
 
-#### 💼 Currently working at **Penta Global Ltd**.
+#### 💼 Currently working at ***Penta Global Ltd***.
 
-#### 🎯 I work with:
-* React, React Native, Node, Express, PostgreSQL, MySQL.
+#### 🛌 Live with:
+* __Language__: JavaScript, TypeScript, Python
+* __Framework/Library/DB__: React, React Native, Node, UIPath, PostgreSQL, WebRTC.
 
 #### 🏹 Working on:
-* GraphQL, Apollo-server-express, ThreeJS.
+* __Language__: Python
+* __Framework/Library__: GraphQL, Apollo-server-express, ThreeJS.
 
 #### ❤️ Love to:
-* Ride, Solve Problems, Travelling.
+* Ride, Solve Problems, Travel.
+
+#### 🎯 Aiming To Be The Best.
 
 #### 📫 Find me on:
   [<img alt="LinkedIn" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/linkidin.png" height="32" width="32" />](https://www.linkedin.com/in/rakib-uddin-8b5207172/)
