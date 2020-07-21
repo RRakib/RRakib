@@ -1,7 +1,18 @@
 [<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=RRakib&show_icons=true&&theme=onedark"/>](https://github.com/RRakib/)
 
 ### 👋 Hi there, I'm Rakib Uddin 
-Full Stack Software Engineer
+Full Stack Software Engineer.
+
+#### 💼 Currently working at **Penta Global Ltd**.
+
+#### 🎯 I work with:
+* React, React Native, Node, Express, PostgreSQL, MySQL.
+
+#### 🏹 Working on:
+* GraphQL, Apollo-server-express, ThreeJS.
+
+#### ❤️ Love to:
+* Ride, Solve Problems, Travelling.
 
 #### 📫 Find me on:
   [<img alt="LinkedIn" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/linkidin.png" height="32" width="32" />](https://www.linkedin.com/in/rakib-uddin-8b5207172/)
