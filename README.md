@@ -3,7 +3,7 @@
 ### 👋 Hi there, I'm Rakib Uddin 
 Full Stack Software Engineer.
 
-#### 💼 Currently working at ***Penta Global Ltd***.
+#### 💼 Currently working at ***ThemeXpert***.
 
 #### 🛌 Live with:
 * __Language__: JavaScript, TypeScript, Python
