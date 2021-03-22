@@ -7,7 +7,7 @@ Full Stack Software Engineer.
 
 #### 🛌  Live with:
 * __Language__: JavaScript, TypeScript, Python
-* __Framework/Library/DB__: React, React Native, Node, UIPath, PostgreSQL, WebRTC.
+* __Framework/Library/DB__: React, React Native, Node, UIPath, PostgreSQL, Php, Laravel, WebRTC.
 
 #### 🏹  Working on:
 * __Language__: Python
