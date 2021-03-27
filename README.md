@@ -6,7 +6,7 @@ Full Stack Software Engineer.
 #### 💼  Currently working at ***ThemeXpert***.
 
 #### 🛌  Live with:
-* __Language__: JavaScript, TypeScript, Python
+* __Language__: JavaScript, TypeScript, Python, Php
 * __Framework/Library/DB__: React, React Native, Node, UIPath, PostgreSQL, Php, Laravel, WebRTC.
 
 #### 🏹  Working on:
