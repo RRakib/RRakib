@@ -11,7 +11,7 @@ Full Stack Software Engineer.
 
 #### 🏹  Working on:
 * __Language__: Python
-* __Framework/Library__: GraphQL, Apollo-server-express, ThreeJS.
+* __Framework/Library__: GraphQL, Apollo-server-express, Laravel.
 
 #### ❤️  Love to:
 * Ride, Solve Problems, Travel.
