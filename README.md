@@ -14,7 +14,7 @@ Full Stack Software Engineer.
 * __Framework/Library__: GraphQL, Apollo-server-express, Laravel.
 
 #### ❤️  Love to:
-* Ride, Solve Problems, Travel.
+* Ride, Solve Problems, Travel, Playing Guitar.
 
 #### 🎯  Aiming To Be The Best.
 
