@@ -10,7 +10,7 @@ Full Stack Software Engineer.
 * __Framework/Library/DB__: React, React Native, Node, PostgreSQL, Laravel, Django, WebRTC.
 
 #### 🏹  Working on:
-* __Language__: Python
+* __Language__: Python, Php
 * __Framework/Library__: GraphQL, Apollo-server-express, Laravel.
 
 #### ❤️  Love to:
