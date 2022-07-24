@@ -23,3 +23,6 @@ Full Stack Software Engineer.
 [<img alt="Facebook" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/facebook.png" height="32" width="32" />](https://www.facebook.com/rakib.uddin.754570)
 [<img alt="Messenger" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/messanger.png" height="32" width="32" />](https://www.facebook.com/rakib.uddin.754570)
 [<img alt="Twitter" src="https://raw.githubusercontent.com/RRakib/RRakib/master/images/twitter.png" height="32" width="32" />](https://twitter.com/RakibUd20101281)
+
+### 💻 Stats
+![snake](./assets/github-contribution-grid-snake.svg)
