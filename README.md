@@ -6,15 +6,15 @@ Full Stack Software Engineer.
 #### 💼  Currently working at ***ThemeXpert***.
 
 #### 🛌  Live with:
-* __Language__: JavaScript, TypeScript, Python, Php
-* __Framework/Library/DB__: Angular, React, React Native, Node, PostgreSQL, Laravel, Django.
+* __Language__: JavaScript, TypeScript
+* __Framework/Library/DB__: Angular, React, NextJS, React Native, Node, Express, TailwindCSS, MongoDB.
 
 #### 🏹  Working on:
-* __Language__: Python, Php
-* __Framework/Library__: GraphQL, Apollo-server-express, Laravel.
+* __Language__: Php
+* __Framework/Library__: Laravel.
 
 #### ❤️  Love to:
-* Ride, Solve Problems, Travel, Playing Guitar.
+* Ride, Solve Problems, Travel.
 
 #### 🎯  Aiming To Be The Best.
 
